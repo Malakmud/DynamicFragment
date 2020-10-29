@@ -1,0 +1,2 @@
+rootProject.name='Dynamic Fragment'
+include ':app'
